@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ftp://retail_ftp:retail_ftp@123@172.17.210.95/retail-doc/test.ipa</string>
+					<string>http://172.17.210.95/test.plist</string>
 				</dict>
 				<dict>
 					<key>kind</key>
