@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/wonhigh/ordering/master/Ordering.ipa</string>
+					<string>http://172.17.206.147:7080/examples/Ordering.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
